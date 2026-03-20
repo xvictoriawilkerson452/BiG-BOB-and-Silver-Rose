@@ -9,7 +9,7 @@ Fayetteville, Arkansas · victoria@junktionalspaces.com
 
 ## What This Is
 
-Independent research and architecture practice focused on one question: what makes AI systems operationally safe, auditable, and correctable in production — and what is the formal substrate that enforces that at scale.
+Independent research and architecture practice focused on one question: what makes AI systems operationally safe, auditable, and correctable in production — and what is the formal substrate that enforces that at scale?
 
 The work started in February 2025 from a systems theory observation about physical space. It ended up producing a formal digital field theory, a deployable AI governance substrate, and a documented cross-platform failure mode that hadn't been named in the literature. All of it derives from a single axiom. The derivation chain is traceable and documented.
 
