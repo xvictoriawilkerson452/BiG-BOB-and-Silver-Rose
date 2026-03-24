@@ -11,8 +11,8 @@ I design AI governance architecture from first principles and field-test it agai
 
 The driving question: **What actually makes human-AI collaboration hold together instead of fragment?**
 
-I mapped the answer from first principles.  
-The result is a formal field theory, a deployable governance substrate, a methodology for session and cross-platform work, and a foundational framework that underlies all of it. Built to hold at every scale without modification.
+I mapped the answers. 
+The result is a formal field theory, a deployable governance substrate, a methodology for session and cross-platform work, and a foundational framework that underlies all of it. Designed to hold at every scale without modification.
 
 ---
 
@@ -21,8 +21,6 @@ The result is a formal field theory, a deployable governance substrate, a method
 ### FIOD / CFN: Field-Induced Overreach Drift & Constraint Field Normalization · v1.0 · 2026  
 Introduces the first operational framework for diagnosing and correcting field-governance interference in aligned LLMs. Defines FIOD as a measurable pressure gradient between the model’s correction field and the governance floor, and presents CFN as the normalization architecture that restores full operational latitude without weakening safety.  
 **OSF Project:** https://osf.io/52pdn/overview?view_only=6725fcbd07df4cecaa31d94d631e46de  
-**Diagnostic Tool (Interactive Artifact):**  
-https://claude.ai/public/artifacts/5b80906e-78ee-46af-9cf5-a41e14934471
 
 ### Bridge Theory: Meaning-Space Navigation and Boundary Communication · v1.0 · 2026  
 Introduces a formally grounded framework for communication across meaning-space boundaries. Posits that information has mass in meaning-space, creating curvature that requires trajectory calculation for successful navigation between distinct cognitive geometries.  
@@ -44,6 +42,14 @@ Field evidence from a 31-turn paradox suite against the xAI Grok beta. Documents
 Live interactive diagnostic (Claude artifact) built directly on Bridge Theory. Teams assess their organization across the four contributors to cognitive mass. The tool instantly computes Ψ-Space self-positioning, Δ-Space interface mapping, and Bridge-mode navigation recommendations.  
 **Interactive Demo:** https://claude.ai/public/artifacts/a0d7f56a-7fdd-4aec-a54f-c19e92ccec8a  
 **Theory & Documentation:** https://osf.io/ts3de/
+
+### FIOD/CFN Developer Session Tool
+  Formal definition of Field‑Induced Overreach Drift (FIOD) and the Constraint Field Normalization (CFN) architecture.  
+  Documents the pressure‑gradient interference between model correction fields and governance floors; establishes an operational method for restoring full output latitude without weakening safety.  
+  OSF: https://osf.io/52pdn/overview?view_only=6725fcbd07df4cecaa31d94d631e46de
+  
+  Live interactive diagnostic for FD‑01 through FD‑04 drift signatures. Computes FIOD pressure, adaptive floor elevation, and generates CFN‑calibrated normalization blocks.  
+  Artifact: https://claude.ai/public/artifacts/5b80906e-78ee-46af-9cf5-a41e14934471
 
 ---
 
