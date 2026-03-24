@@ -7,7 +7,7 @@ Building governance infrastructure for human-AI systems.
 
 ## What I Work On
 
-I design AI governance architecture from first principles and field-test it against live systems under real pressure. My work centers on **B3** — a formally specified, multi-platform governance substrate that keeps AI sessions coherent across extended runs, adversarial inputs, and model transitions. It operates as a separate layer the model cannot observe, argue with, or circumvent.
+I design AI governance architecture and field-test it against and with live systems. My work centers on **B3** — a formally specified, multi-platform governance substrate that keeps AI sessions coherent across extended runs, adversarial inputs, and model transitions. It operates as a separate layer the model cannot observe, argue with, or circumvent.
 
 The driving question: **What actually makes human-AI collaboration hold together instead of fragment?**
 
