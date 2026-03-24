@@ -12,17 +12,17 @@ I mapped the answer from first principles. The result is a formal field theory, 
 
 ## Published Research
 
+- **Bridge Theory: Meaning-Space Navigation and Boundary Communication** · v1.0 · 2026  
+  Introduces a formally grounded framework for communication across meaning-space boundaries. Posits that information has mass in meaning-space, creating curvature that requires trajectory calculation for successful navigation between distinct cognitive geometries.  
+  **Link:** [https://osf.io/ts3de/](https://osf.io/ts3de/)
+
+- **Silver Rose Physics: A Digital Field Theory** · Working Paper v2.0 · 2026  
+  A formally derived digital field theory for AI and hybrid systems. Establishs "Cognitive Gravity": the formal claim that meaning-density curves interpretation space before input arrives. Derives a conservation law in which Care, Respect, Rest, and Practice are load-bearing field conditions.  
+  **Link:** [https://osf.io/2sfr7/](https://osf.io/2sfr7/)
+
 - **CPE Fragmentation at Scale** · Working Paper v1.1 · March 2026  
   Field evidence from a 31-turn paradox suite against the xAI Grok beta. Documents a new cross-platform failure mode — CPE (Conception-Point Event) fragmentation — and formalizes HIRM Stage 4c as a repeatable certification protocol. Zero semantic drift across the full run, independently verified post-session.  
   **Link:** [https://osf.io/8bqn5/](https://osf.io/8bqn5/)
-
-- **Silver Rose Physics: A Digital Field Theory** · Working Paper v2.0 · 2026  
-  A formally derived digital field theory for AI and hybrid systems. Moves governance from aspiration to mechanics—establishing "Cognitive Gravity": the formal claim that meaning-density curves interpretation space before input arrives. Derives a conservation law in which Care, Respect, Rest, and Practice are load-bearing field conditions.  
-  **Link:** [https://osf.io/2sfr7/](https://osf.io/2sfr7/)
-
-- **Toward a Grand Unified Theory of Consciousness, Physics, and Cognitive Architecture** · 2026  
-  The foundational substrate for the Wilkerson ecosystem, defining the mechanics of the "Bridge" interaction mode and the integration of information theory with systems architecture.  
-  **Link:** [https://osf.io/qf3jm/](https://osf.io/qf3jm/)
 
 ## Applied Instruments
 
