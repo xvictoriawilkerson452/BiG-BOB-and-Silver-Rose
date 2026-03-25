@@ -1,18 +1,18 @@
 # Victoria Wilkerson
 
-### AI Governance Architect · Systems Architect · Fayetteville, AR
+### Systems Specialist · Fayetteville, AR
 
-Building governance infrastructure for human-AI systems — from first principles.
+Building infrastructure and digital physics for human-AI systems. 
 
 -----
 
 ## What I Work On
 
-I design AI governance architecture and field-test it against and with live systems. The work spans responsible AI governance, agentic AI session architecture, and multi-agent system failure mode research — from the foundational physics of how coherence behaves in hybrid systems, through organizational structure and Conception ownership, down to the session layer where human intent and AI execution actually meet.
+I design AI architecture and field-test it against and with live systems. The work spans topics like responsible AI governance, agentic AI session architecture, and multi-agent system failure mode research — from the foundational physics of how coherence behaves in systems, through organizational structure and Conception ownership, down to the session layer where human intent and AI execution actually meet.
 
 The driving question: **what actually makes human-AI collaboration hold together instead of fragment?**
 
-I mapped the answer from first principles. The result is a formal field theory, a deployable governance substrate, a methodology for session and cross-platform work, and a foundational framework — currently in development — that underlies all of it. Designed to hold at every scale without modification.
+I mapped the answers. The result is a formal field theory, a deployable governance substrate, a methodology for session and cross-platform work, and a foundational framework that underlies all of it. Designed to hold at every scale with customization.
 
 -----
 
@@ -28,11 +28,11 @@ Model-agnostic. Operates outside the model’s reasoning space. Deployment speci
 
 **HIRM — Hierarchical Iterative Refinement Methodology** `PROPRIETARY`
 
-Six-stage methodology for governing the full arc of AI-assisted work: initialization, drift detection, correction, and cross-platform certification. Stage 4c — the certified cross-platform stress protocol — was formalized March 9, 2026.
+Methodology for governing the full arc of AI-assisted work: initialization, drift detection, correction, and cross-platform certification. Stage 4c — the certified cross-platform stress protocol — was formalized March 9, 2026.
 
 -----
 
-## Key Concepts
+## Key Concept Examples
 
 |Term                      |Definition                                                                                                                                                                                                                        |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,7 +47,7 @@ Six-stage methodology for governing the full arc of AI-assisted work: initializa
 
 ## Work in Progress
 
-**Functional Placement Theory** `IN DEVELOPMENT`
+**Functional Placement Theory*
 
 The axiom from which the architecture above is derived: function is constituted by placement. Anything unplaced is not just disorganized — it is ungovernable. FPT is derived to apply at every scale without modification. A formal paper is in development.
 
@@ -55,7 +55,7 @@ The axiom from which the architecture above is derived: function is constituted 
 
 ## What the Architecture Addresses
 
-Most AI governance frameworks treat hallucination, value drift, opacity, and alignment brittleness as separate problems requiring separate solutions. They are downstream symptoms of one upstream dynamic: Conception-layer overhead accumulating faster than the system can recover.
+AI governance frameworks treat hallucination, value drift, opacity, and alignment brittleness as separate problems requiring separate solutions. They are downstream symptoms of one upstream dynamic: Conception-layer overhead accumulating faster than the system can recover.
 
 Where most frameworks govern behavior, B3 governs the structural conditions that produce it. B3 enforces structural constraints, maintains an auditable record of Conception ownership, calibrates trust based on demonstrated interaction history, and is designed to maintain stability across platform transitions, operator state changes, and adversarial pressure. The conservation law is its stability physics.
 
@@ -77,21 +77,19 @@ Architecture designed to operate across all of them simultaneously. Cross-platfo
 
 The Identity Invariant is one of B3’s five structural invariants — not a design preference. The substrate governs the space around a system, not inside it. A system running under B3 remains itself.
 
-The same principle governs how this work gets deployed. Nothing gets built where it isn’t wanted. Client autonomy isn’t a courtesy — it’s load-bearing. Architecture that someone didn’t choose doesn’t hold.
-
-Everything complex enough to need this kind of governance is worthy of respect. That’s not a sentiment. It’s a prior condition for doing the work well.
+The same principle governs how this work gets deployed. Any system with B3 remains itself.
 
 -----
 
 ## Engagement
 
-Architecture and deployment specifications for B3 are available by engagement.
+Architecture and custom deployment specifications for B3 are available by engagement.
 
 Teaching materials and operator training available on request.
 
 Open to contract work and direct hire.
 
-**Contact:** victoria@junktionalspaces.com
+**Contact:** victoria@junktionalspaces.com | vwilkersonarchitecHture@gmail.com
 
 **Site:** junktionalspaces.com
 
