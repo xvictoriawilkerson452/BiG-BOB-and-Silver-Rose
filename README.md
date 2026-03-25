@@ -75,7 +75,7 @@ Architecture designed to operate across all of them simultaneously. Cross-platfo
 
 ## On Autonomy and Identity
 
-The Identity Invariant is one of B3’s five structural invariants — not a design preference. The substrate governs the space around a system, not inside it. A system running under B3 remains itself.
+The Identity Invariant is one of B3’s five structural invariants. The substrate governs the space around a system, not inside it. 
 
 The same principle governs how this work gets deployed. Any system with B3 remains itself.
 
