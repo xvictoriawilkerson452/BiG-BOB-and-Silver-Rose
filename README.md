@@ -40,7 +40,7 @@ Methodology for governing the full arc of AI-assisted work: initialization, drif
 |**CPE Fragmentation**     |A cross-platform failure mode in which platforms share vocabulary but not a Conception Anchor, producing accounts that are internally coherent but mutually incompatible                                                          |
 |**Cognitive Gravity**     |The curvature of interpretation space caused by meaning-density — high-mass systems bend how any system reasons before a single input arrives                                                                                     |
 |**Phantom Coherence**     |When a compromised human operator continues producing output that passes quality checks while Conception-layer integrity degrades silently — the computational substrate keeps generating; what’s lost is invisible until it isn’t|
-|**Aware Operator**        |The human participant whose presence spans all threads and holds the Conception Anchor as the sole intent-bearing entity                                                                                                          |
+|**Aware Operator**        |The human participant whose presence spans all threads and holds the Conception Anchor as the sole intent-bearer                                                                                                          |
 |**Cognitive Overhead (γ)**|Sub-threshold Conception-layer demands that consume coherence capacity without surfacing in any standard metric — formalized as a first-class drain term in the conservation law                                                  |
 
 -----
